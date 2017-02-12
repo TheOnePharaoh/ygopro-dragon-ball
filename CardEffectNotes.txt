@@ -1,0 +1,85 @@
+These are basically some simple notes regarding the card effects that target specific monsters/archetypes/sets/...etc. might be unneeded but may be very helpful as a quick referece for scripting, but it doesn't contain all effects, just ones that refer to other cards.
+
+All setcodes written here are in hex
+
+96660004 - specifically for 96660003 & 96660019
+96660009 and 96660010 - scripted - unsure if effects work right
+96660012 - refers to setcode 150
+96660013 - refers to setcode 14f
+96660014 and 96660015 - refer to each other
+96660016 and 96660017 - refer to 96660014 and 96660015
+96660018 = "96660017" + "96660014" or "96660015"
+96660019 = "96660017" + "96660014" + "96660015", summon effect refers to 96660020
+96660022 - refers to 96661015,96661016,96661017, summons 96660029
+96660023 - refers to 96660029
+96660024 - summons 96660025
+96660026 - refers to 96660025
+96660027 = "96660025" + "96660026" (Polymerization is used for fusion), summons 96660028
+96660028 - can only be special summoned by the effect of 96660027
+96660029 - can only be special summoned by the effect of 96660023, summon effect refers to 96661015,96661016,96661017,96661018
+96660030 - requires 96660014 and 96660015
+96660034 - refers to 96660033
+96660035 - refers to setcode 14f
+96660036 - requires 96660028
+96660039 - scripted but effect doesn't work correctly
+96660040 - scripted but completely wrong, supposed to require specific XYZ materials (96660037,96660038,96660039) we were unable to script it correctly
+96660041 - refers to setcode 14f
+96660042 - scripted but may have issues
+96660043 - specific special summon tribute = 96660042
+96660044 - refers to 96661011, summons 96660045
+96660045 - summoned by effect of 96660044 or by tributing 96660044. refers to 96661011 and summons 96660046
+96660046 - summoned by effect of 96660045, refers to 96661011
+96660047 - only works on 96660044,96660045, and 96660046
+96660048 - summons 96660049
+96660049 - summoned only by effect of 96660048, summon effect exceptions are 96660048 and itself
+96660051 - summons 96660052
+96660052 - can only be summoned by 96660051
+96660053 = "96660031" + "96661006"
+96660054 - specific XYZ materials = 96660014 and 96660015, also refers to them in effect.
+96661000 - refers to setcode 14d
+96661001 and 96661002 - refer to each other
+96661003 - refers to 96661002,96661015,96661016,96661017,96661018,96660029 and 96660000,96660001,96660002,96660003
+96661004 and 96661005 - refer to each other
+96661006 refers to setcode 14d, basically effect of Eye of Timaeus
+96661007 = "96661000" + "96661006"
+96661008 = "96661001" + "96661006"
+96661009 = "96661002" + "96661006", refers to setcode 14d
+96661010 = "96661004" + "96661006" 
+96661011 summons 96661012
+96661012 summons 96661013
+96661013 refers to 96661011 and 96661012. summons 96661014
+96661014 can only be summoned by 96661013
+96661015 summons 96661016
+96661016 summons 96661017
+96661017 refers to 96661015 and 96661016, summons 96661018
+96661018 can only be summoned by 96661017
+96661020 - effect is complete but we may add an effect later for DragonBall Super cards.
+96661021 refers to 96661002,96661015,96661016,96661017,96661018,96660029
+96661022 refers to 96661011 96661044 and 96661045, summons 96661023
+96661023 summons 96661024
+96661024 summons 96661025
+96661025 summon effect refers to 96661024
+96661026 = "96661032" + "96661025" (Synchro)
+96661027 and 96661028 refer to each other
+96661029 = "96661027" + "96661028"
+96661030 = can only be summoned by effect of 96661029
+96661031 = summons 96661999 (tokens)
+96661032 = refers to 96661024
+96661033 = "96661011" + "96661015"
+96661034 = "96661032" + "96661011" + "96661015"
+96661035 refers to 96661023,96661024,96661025,96661026
+96661036 refers to setcode 14d
+96661038 refers to 96661042
+96661040 refers to setcode 14d
+96661041 = "96661040" + "96661039"
+96661042 = union for 96661045, special summons 96661044
+96661043 - targets 96661011
+96661044 = union for 96661045
+96661046 = "96661045" + "96661044" + "96661042", summons 96661022 or 96661024
+96661048 summons 96661049
+96661049 summons 96661050
+96661050 can only be summoned by 96661049
+96661051 refers to 9666006
+96661054 summons 96661055
+96661055 summoned by 96661054's effect
+96661999 summoned by 96661031

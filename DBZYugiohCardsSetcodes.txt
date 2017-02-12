@@ -1,0 +1,16 @@
+Format: Monster Type on card = official ygo type - setcode dec (hex)
+
+Saiyans = Beast-Warrior - setcode 333 (14d)
+Humans = Warrior - setcode 334 (14e)
+Arcosian = Reptile - setcode 335 (14f)
+Androids (16-18) = Machine - setcode 336 (150)
+GForce = Warrior - setcode 337 (151)
+Namek = dinosaur - setcode 338 (152)
+fusion Androids = machine - setcode 339 (153)
+majin = fiend - setcode 340 (154)
+spells/traps setcode = 341 (155)
+Aliens = 342 (156)
+cell = reptile - setcode 343 (157)
+hatchiyack(machine) and janemba(fiend) = setcode 344 (158)
+kaioshin/gods/popo/whatever = 345 (159)
+
