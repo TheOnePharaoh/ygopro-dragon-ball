@@ -6,3 +6,7 @@ Monster by battle: You can destroy
 2-Pump Up
 Target one "Freeza" or "Cell (Perfect)" card you control, double its ATK. During the End Phase, destroy that card and send it to the graveyard. You can only activate one "Pump Up" per turn.
 Target 1 "Freeza" or "Cell (Perfect)" monster you control: Double its ATK. During the End Phase, destroy it. You can only activate 1 "Pump Up" per turn.
+
+3-Freeza (First Form)
+Once per turn, you can discard one card from your hand to destroy one attack position monster your opponent controls. During the End Phase, if this card destroyed an opponent's monster as a result of battle, you can tribute this card to Special Summon "Freeza (Second Form)" from your Hand or Deck.
+Once per turn: You can discard 1 card from your hand; Destroy 1 attack position monster your opponent controls. During the End Phase, if this card destroyed a monster by battle this turn: You can tribute this card; Special Summon 1 "Freeza (Second Form)" from your Hand or Deck.
