@@ -3,3 +3,6 @@ CDB Edit Log
 Monster by battle, you can destroy
 Monster by battle: You can destroy
 
+2-Pump Up
+Target one "Freeza" or "Cell (Perfect)" card you control, double its ATK. During the End Phase, destroy that card and send it to the graveyard. You can only activate one "Pump Up" per turn.
+Target 1 "Freeza" or "Cell (Perfect)" monster you control: Double its ATK. During the End Phase, destroy it. You can only activate 1 "Pump Up" per turn.
