@@ -14,7 +14,7 @@ function c96660004.filter(c)
 	return c:IsFaceup() and (c:IsCode(96660003) or c:IsCode(96660019))
 end
 function c96660004.tar(e,tp,eg,ep,ev,re,r,rp,chk,chkc)
-	if chkc then return  chkc:IsControler(tp) and chkc:IsLocation(LOCATION_MZONE) and chkc:IsFaceup() and  and c96660004.filter(chkc) end
+	if chkc then return  chkc:IsControler(tp) and chkc:IsLocation(LOCATION_MZONE) and chkc:IsFaceup() and c96660004.filter(chkc) end
 	if chk==0 then return Duel.IsExistingTarget(c96660004.filter,tp,LOCATION_MZONE,0,1,nil) end
 	Duel.Hint(HINT_SELECTMSG,tp,HINTMSG_FACEUP)
 	Duel.SelectTarget(tp,c96660004.filter,tp,LOCATION_MZONE,0,1,1,nil)
