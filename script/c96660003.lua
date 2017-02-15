@@ -1,6 +1,6 @@
 --Freeza
 --Scripted by: TheOnePharaoh
---This card cannot be Normal or Special Summoned except by the effect of "Freeza (Third Form)". Once per turn, if this card destroys an Opponent's Monster by battle: You can destroy all Defense Position monsters your opponent controls. Cannot be destroyed by card effects.
+--This card cannot be Normal or Special Summoned except by the effect of "Freeza (Third Form)". Once per turn, if this card destroys an Opponent's Monster by battle: You can destroy all Defense Position monsters your opponent controls. Cannot be destroyed by your opponent's card effects.
 function c96660003.initial_effect(c)
 	c:EnableReviveLimit()
 	--cannot special summon
@@ -26,8 +26,11 @@ function c96660003.initial_effect(c)
 	e3:SetProperty(EFFECT_FLAG_SINGLE_RANGE)
 	e3:SetRange(LOCATION_MZONE)
 	e3:SetCode(EFFECT_INDESTRUCTABLE_EFFECT)
-	e3:SetValue(1)
+	e3:SetValue(c96660003.indval)
 	c:RegisterEffect(e3)
+end
+function c96660003.indval(e,re,rp)
+	return rp~=e:GetHandlerPlayer()
 end
 function c96660003.filter(c)
 	return not c:IsAttackPos()

@@ -27,6 +27,9 @@ Once per turn: you can destroy 1 face-up Attack Position monster your opponent c
 This card cannot be Normal or Special Summoned except by the effect of "Freeza (Second Form)". Once per turn, you can destroy one monster your opponent controls. During the End Phase, you can tribute this card to Special Summon "Freeza" from your Hand or Deck.
 This card cannot be Normal or Special Summoned except by the effect of "Freeza (Second Form)". Once per turn: You can destroy 1 monster your opponent controls. During the End Phase: You can tribute this card; Special Summon 1 "Freeza" from your Hand or Deck.
 
+8-Freeza
+Cannot be destroyed by card effects.
+Cannot be destroyed by your opponent's card effects.
 
 
 
