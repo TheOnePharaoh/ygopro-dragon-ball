@@ -31,7 +31,11 @@ This card cannot be Normal or Special Summoned except by the effect of "Freeza (
 Cannot be destroyed by card effects.
 Cannot be destroyed by your opponent's card effects.
 
+9-Freeza (Second Form)
+During the End Phase
+During your End Phase: You can tribute this card; Special Summon 1 "Freeza (Third Form)" from your Hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)
 
-
-
+10-Freeza (Third Form)
+During the End Phase: You can tribute this card; Special Summon 1 "Freeza" from your Hand or Deck.
+During your End Phase: You can tribute this card; Special Summon 1 "Freeza" from your Hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)
 
