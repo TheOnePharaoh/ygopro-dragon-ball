@@ -22,3 +22,13 @@ If "Majin Buu" is face-up on the Field, this card gains 500 ATK. Cannot be destr
 6-Freeza (Second Form)
 Once per turn, destroy one of your opponent's attack position monsters with an ATK equal to or lower than this card's ATK. During the End Phase, you can Tribute this card to Special Summon "Freeza (Third Form)" from your Hand or Deck.
 Once per turn: you can destroy 1 face-up Attack Position monster your opponent controls. whose ATK is equal or less than this card's ATK. During the End Phase: You can tribute this card; Special Summon 1 "Freeza (Third Form)" from your Hand or Deck.
+
+7-Freeza (Third Form)
+This card cannot be Normal or Special Summoned except by the effect of "Freeza (Second Form)". Once per turn, you can destroy one monster your opponent controls. During the End Phase, you can tribute this card to Special Summon "Freeza" from your Hand or Deck.
+This card cannot be Normal or Special Summoned except by the effect of "Freeza (Second Form)". Once per turn: You can destroy 1 monster your opponent controls. During the End Phase: You can tribute this card; Special Summon 1 "Freeza" from your Hand or Deck.
+
+
+
+
+
+
