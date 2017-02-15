@@ -1,6 +1,6 @@
 --Freeza (First Form)
 --Scripted by: TheOnePharaoh
---Once per turn: You can discard 1 card from your hand; Destroy 1 attack position monster your opponent controls. During the End Phase, if this card destroyed a monster by battle this turn: You can tribute this card; Special Summon 1 "Freeza (Second Form)" from your Hand or Deck.
+--Once per turn: You can discard 1 card from your hand; Destroy 1 Attack Position monster your opponent controls. During the End Phase, if this card destroyed a monster by battle this turn: You can tribute this card; Special Summon 1 "Freeza (Second Form)" from your Hand or Deck.
 function c96660000.initial_effect(c)
 	--battle destroy
 	local e1=Effect.CreateEffect(c)
