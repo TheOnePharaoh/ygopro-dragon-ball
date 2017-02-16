@@ -39,3 +39,6 @@ During your End Phase: You can tribute this card; Special Summon 1 "Freeza (Thir
 During the End Phase: You can tribute this card; Special Summon 1 "Freeza" from your Hand or Deck.
 During your End Phase: You can tribute this card; Special Summon 1 "Freeza" from your Hand or Deck. (You cannot activate this effect the turn this card is Normal Summoned, Special Summoned, or flipped face-up.)
 
+11-Dabura's Stone Spit
+Target one monster your opponent controls. It cannot attack, and its DEF becomes 0.
+Target 1 monster your opponent controls; it cannot attack while it is face-up on the field, and its DEF becomes 0.
