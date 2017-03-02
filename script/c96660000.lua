@@ -5,6 +5,7 @@ function c96660000.initial_effect(c)
 	--battle destroy
 	local e1=Effect.CreateEffect(c)
 	e1:SetType(EFFECT_TYPE_SINGLE+EFFECT_TYPE_CONTINUOUS)
+	e2:SetProperty(EFFECT_FLAG_CANNOT_DISABLE) 
 	e1:SetCode(EVENT_BATTLE_DESTROYING)
 	e1:SetOperation(c96660000.bdop)
 	c:RegisterEffect(e1)
